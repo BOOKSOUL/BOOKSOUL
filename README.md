@@ -1,9 +1,5 @@
 <h1 align="center">✨ BOOKSOUL ✨</h1>
 
 <p align="center">
-  <img src="https://pin.it/6iv7p8R4X/>
-</p>
-
-<p align="center">
-  🌿 lumine vibes 🌿
+  <img src="https://raw.githubusercontent.com/BOOKSOUL/BOOKSOUL/main/lumine.png" width="300"/>
 </p>
