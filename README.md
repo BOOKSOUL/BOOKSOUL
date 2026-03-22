@@ -20,10 +20,6 @@
 
 ---
 
-## 🌸 My space
-- 🌐 portfolio: (thêm link nếu có)
-- 📓 rentry: (link của m)
-- 💌 contact: (ig/dis nếu muốn)
 
 ---
 
