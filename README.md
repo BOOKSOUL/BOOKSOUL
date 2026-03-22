@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">✨ BOOKSOUL ✨</h1>
 
-<!--
-**BOOKSOUL/BOOKSOUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌿 soft soul • wanderer • dream collector 🌿
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌼 About me
+- ✨ just a quiet soul drifting through worlds  
+- 📖 loves stories, art, and beautiful things  
+- 🌙 chasing calm vibes  
+
+---
+
+## 🌿 Aesthetic corner
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6e/9b/5c/6e9b5c7b4dba6f6a7f0b5cfd7f8b2f3a.gif" width="300"/>
+</p>
+
+---
+
+## 🌸 My space
+- 🌐 portfolio: (thêm link nếu có)
+- 📓 rentry: (link của m)
+- 💌 contact: (ig/dis nếu muốn)
+
+---
+
+## ✨ Little note
+> "The wind knows where to carry me."
+
+---
+
+<p align="center">
+  🍃 thanks for visiting 🍃
+</p>
